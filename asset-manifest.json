@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/CIS453L_Garland/static/css/main.5af2d8c7.css",
+    "main.js": "/CIS453L_Garland/static/js/main.43b34033.js",
+    "static/media/souvenirs.jpg": "/CIS453L_Garland/static/media/souvenirs.b46d8d6da27e5d9b0989.jpg",
+    "static/media/apparel.jpg": "/CIS453L_Garland/static/media/apparel.1e83a1b22fde20ffa49c.jpg",
+    "static/media/towels.jpg": "/CIS453L_Garland/static/media/towels.2b748a33d82c511d27d8.jpg",
+    "static/media/surry.jpg": "/CIS453L_Garland/static/media/surry.9b0c5b608879df18b399.jpg",
+    "static/media/cruiserbike.jpg": "/CIS453L_Garland/static/media/cruiserbike.e438c8353806962aa68a.jpg",
+    "static/media/Store1.jpg": "/CIS453L_Garland/static/media/Store1.0cc3e775ed0d2f5fc5db.jpg",
+    "static/media/drinks1.jpg": "/CIS453L_Garland/static/media/drinks1.5d327f61f9aa4cb5bd5d.jpg",
+    "static/media/board.jpg": "/CIS453L_Garland/static/media/board.790a59b39909b7780679.jpg",
+    "static/media/map.jpg": "/CIS453L_Garland/static/media/map.eb711fd370752e293978.jpg",
+    "index.html": "/CIS453L_Garland/index.html",
+    "main.5af2d8c7.css.map": "/CIS453L_Garland/static/css/main.5af2d8c7.css.map",
+    "main.43b34033.js.map": "/CIS453L_Garland/static/js/main.43b34033.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5af2d8c7.css",
+    "static/js/main.43b34033.js"
+  ]
+}
